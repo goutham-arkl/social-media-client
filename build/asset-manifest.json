@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b201657.css",
+    "main.js": "/static/js/main.a7de0788.js",
+    "static/media/404 Error Page not Found with people connecting a plug-amico.png": "/static/media/404 Error Page not Found with people connecting a plug-amico.ec424d66e0ec00789a25.png",
+    "index.html": "/index.html",
+    "main.5b201657.css.map": "/static/css/main.5b201657.css.map",
+    "main.a7de0788.js.map": "/static/js/main.a7de0788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b201657.css",
+    "static/js/main.a7de0788.js"
+  ]
+}
