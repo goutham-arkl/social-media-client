@@ -7,7 +7,7 @@ const header= localStorage.getItem("accessToken")?{
   }
 
 const instance=axios.create({
-    baseURL:'https://api.prosper-media.cf/api',
+    baseURL:'https://server.nutranation.ml/api',
     headers:header,
     withCredentials:true
 })
